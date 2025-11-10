@@ -290,7 +290,7 @@ class DataGraphExplorer:
 
 # Run the application
 if __name__ == "__main__":
-    print("📊 Data Graph Explorer - VS Code Version")
+    print("📊 Data Graph Explorer")
     print("========================================")
     print("A powerful tool for exploring and visualizing datasets")
     print("• Load data from URL or upload CSV files")
